@@ -1,0 +1,16 @@
+C:\Users\1Tp\Music\clicker\cosWstylu2048\cosWstylu2048\bin\Debug\net6.0-windows\cosWstylu2048.exe
+C:\Users\1Tp\Music\clicker\cosWstylu2048\cosWstylu2048\bin\Debug\net6.0-windows\cosWstylu2048.deps.json
+C:\Users\1Tp\Music\clicker\cosWstylu2048\cosWstylu2048\bin\Debug\net6.0-windows\cosWstylu2048.runtimeconfig.json
+C:\Users\1Tp\Music\clicker\cosWstylu2048\cosWstylu2048\bin\Debug\net6.0-windows\cosWstylu2048.dll
+C:\Users\1Tp\Music\clicker\cosWstylu2048\cosWstylu2048\bin\Debug\net6.0-windows\cosWstylu2048.pdb
+C:\Users\1Tp\Music\clicker\cosWstylu2048\cosWstylu2048\obj\Debug\net6.0-windows\cosWstylu2048.Form1.resources
+C:\Users\1Tp\Music\clicker\cosWstylu2048\cosWstylu2048\obj\Debug\net6.0-windows\cosWstylu2048.csproj.GenerateResource.cache
+C:\Users\1Tp\Music\clicker\cosWstylu2048\cosWstylu2048\obj\Debug\net6.0-windows\cosWstylu2048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1Tp\Music\clicker\cosWstylu2048\cosWstylu2048\obj\Debug\net6.0-windows\cosWstylu2048.AssemblyInfoInputs.cache
+C:\Users\1Tp\Music\clicker\cosWstylu2048\cosWstylu2048\obj\Debug\net6.0-windows\cosWstylu2048.AssemblyInfo.cs
+C:\Users\1Tp\Music\clicker\cosWstylu2048\cosWstylu2048\obj\Debug\net6.0-windows\cosWstylu2048.csproj.CoreCompileInputs.cache
+C:\Users\1Tp\Music\clicker\cosWstylu2048\cosWstylu2048\obj\Debug\net6.0-windows\cosWstylu2048.dll
+C:\Users\1Tp\Music\clicker\cosWstylu2048\cosWstylu2048\obj\Debug\net6.0-windows\refint\cosWstylu2048.dll
+C:\Users\1Tp\Music\clicker\cosWstylu2048\cosWstylu2048\obj\Debug\net6.0-windows\cosWstylu2048.pdb
+C:\Users\1Tp\Music\clicker\cosWstylu2048\cosWstylu2048\obj\Debug\net6.0-windows\cosWstylu2048.genruntimeconfig.cache
+C:\Users\1Tp\Music\clicker\cosWstylu2048\cosWstylu2048\obj\Debug\net6.0-windows\ref\cosWstylu2048.dll
